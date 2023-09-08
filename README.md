@@ -71,10 +71,10 @@ public static void printSum(Integer a, Integer b) throws FileNotFoundException {
 ### При возникновении проблемы с чтением-записью в файл, исключение должно быть корректно обработано, пользователь должен увидеть стектрейс ошибки.
 ## [ссылка на приложение][6]
 
-[1]: <>
-[2]: <>
-[3]: <>
-[4]: <>
+[1]: <https://github.com/Shchelokoff/ExceptionJavaHW/blob/main/homework2/task1.java>
+[2]: <https://github.com/Shchelokoff/ExceptionJavaHW/blob/main/homework2/task2.java>
+[3]: <https://github.com/Shchelokoff/ExceptionJavaHW/blob/main/homework2/task3.java>
+[4]: <https://github.com/Shchelokoff/ExceptionJavaHW/blob/main/homework2/task4.java>
 [5]: <https://docs.google.com/document/d/17EaA1lDxzD5YigQ5OAal60fOFKVoCbEJqooB9XfhT7w/edit>
-[6]: <>
+[6]: <https://github.com/Shchelokoff/ExceptionJavaHW/tree/main/homework3>
 
